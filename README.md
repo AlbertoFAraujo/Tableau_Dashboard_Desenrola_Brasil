@@ -10,8 +10,7 @@
 
 ### Objetivo: 
 
-Fornecer de forma ágil e eficaz os indicadores de vendas, margem de lucro, vendas por categorias, subcategorias, demanda por tipo de entrega, segmento, relação da margem de lucro por estado brasileiro e os totais de vendas e lucro conforme a aplicação dos filtros disponíveis, como ano, subcategoria e quantidade de vendas.
-Em resumo, este dashboard é uma ferramenta útil para a tomada de decisões estratégicas, permitindo aos usuários identificarem áreas de alto e baixo desempenho e ajustar suas estratégias de acordo ao cenário.
+Fornecer uma visualização clara e abrangente das operações de crédito renegociadas no âmbito do Programa Emergencial de Renegociação de Dívidas de Pessoas Físicas Inadimplentes - Desenrola Brasil. O dashboard permite comparar a atividade entre faixas do programa (faixa 1 e 2), identificar padrões de renegociação por instituição credora e filtragem por estado brasileiro, além de oferecer insights acionáveis para gestores, reguladores e outras partes interessadas no acompanhamento e avaliação do programa.
 
 Base de dados: https://dadosabertos.bcb.gov.br/dataset/desenrola-brasil
 <hr>
@@ -19,7 +18,7 @@ Base de dados: https://dadosabertos.bcb.gov.br/dataset/desenrola-brasil
 ### Etapas do projeto:
 
 1. Definição do objetivo da análise e coleta dos dados;
-2. Importação e tratamento dos dados (Limpeza, transformações, análise de variáveis, criação de variáveis auxiliares) - Linguagem DAX e PowerQuery;
+2. Importação e tratamento dos dados (Limpeza, transformações, análise de variáveis, criação de variáveis auxiliares);
 3. Definição do layout - Figma;
 4. Deploy do projeto final e hospedagem no Tableau Public Online.
 <hr>
@@ -27,16 +26,12 @@ Base de dados: https://dadosabertos.bcb.gov.br/dataset/desenrola-brasil
 
 ### Detalhes:
 
-O Dashboard VENDAS é composto por 7 indicadores:
-Todos os indicadores abaixo estão relacionados aos filtros superiores do painél, sendo por Ano, Subcategoria de produto e Quantidade de vendas. É possível analisar diferentes cenários conforme a aplicação dos filtros.
-- Vendas vs Margem de Lucro: Gráfico de dispersão, permitindo uma análise da relação entre as vendas e a margem de lucro.
-- Vendas por Categoria: Gráficos de treemaps, apresentando uma a relação de grandeza entre o número de vendas equiparadas as outras modalidades de categorias (Officec Supplies, Technology e Furniture)
-- Vendas por Subcategoria: Gráficos de barras, com uma visão clara do desempenho de vendas de diferentes subcategorias no top 5 maiores vendas.
-- Margem de Lucro por Estado: Mapa do Brasil, oferecendo uma visão geográfica da rentabilidade por estado brasileiro.
-- Vendas por segmento: Gráfico de pizza, relacionando a distribuição de vendas entre os segmentos (Consumer, Corporate e Home Office). É possível analisar qual segmento possui maior demanda de pedidos, conforme os filtros do painel.
-- Vendas por tipo de Entrega: Gráfico de bolhas, demonstrando a relação entre os tipos de entregas (Econômica, Prioridade, Econômica Plus e Immediate) conforme o tamanho da bolha, indicando qual tipo possui maiores indicadores de entrega dos pedidos.
-- Total de Vendas e Lucro (R$): Card superior, informando os valores totais de vendas e lucro.
-Créditos: Formação Cientista de Dados da Data Science Academy.
+O Dashboard DESENROLA-BRASIL é composto pelos indicadores abaixo:
+Todos os indicadores abaixo estão relacionados aos filtros superiores do painel, sendo por Estado Brasileiro ou Ano. É possível analisar diferentes cenários conforme a aplicação dos filtros.
+- Financeiras x Número Operações: Gráfico de barras horizontais, apresentando uma análise visual das instituições financeiras com maiores números de operações de renegociações.
+- Financeiras x Volume de Operações: Gráfico de barras verticais, relacionando o volume total dos valores das operações após a concessão do desconto, em reais.
+- Número x Volume de Operações: Gráfico de dispersão, apresentando a relação entre o volume total das operações x número de operações de renegociações.
+- Cards superiores: Na parte superior do painel está disposto os totais entre volume de operações, número de operações, número de instituições financeiras e total de operações entre as faixas do desenrola.
 <hr>
 
 ### Projeto Final:
@@ -44,7 +39,3 @@ Créditos: Formação Cientista de Dados da Data Science Academy.
 ![p2](https://github.com/AlbertoFAraujo/Tableau_Vendas/assets/105552990/aa1a9d94-4248-445f-a113-03648833ff93)
 ![p3](https://github.com/AlbertoFAraujo/Tableau_Vendas/assets/105552990/749d533d-7984-43c7-a131-d2bfc76ab32a)
 ![p4](https://github.com/AlbertoFAraujo/Tableau_Vendas/assets/105552990/7fa605b3-14c0-49cb-8acb-a01c0bcb05ea)
-
-
-
-
