@@ -40,4 +40,11 @@ Créditos: Formação Cientista de Dados da Data Science Academy.
 <hr>
 
 ### Projeto Final:
-![desenrola_brasil](https://github.com/AlbertoFAraujo/Tableau_Vendas/assets/105552990/40b652fe-832c-46ac-9b7a-63c69f342fd2)
+![p1](https://github.com/AlbertoFAraujo/Tableau_Vendas/assets/105552990/057cc883-7613-41cf-9d35-d5e1133ebd9c)
+![p2](https://github.com/AlbertoFAraujo/Tableau_Vendas/assets/105552990/aa1a9d94-4248-445f-a113-03648833ff93)
+![p3](https://github.com/AlbertoFAraujo/Tableau_Vendas/assets/105552990/749d533d-7984-43c7-a131-d2bfc76ab32a)
+![p4](https://github.com/AlbertoFAraujo/Tableau_Vendas/assets/105552990/7fa605b3-14c0-49cb-8acb-a01c0bcb05ea)
+
+
+
+
