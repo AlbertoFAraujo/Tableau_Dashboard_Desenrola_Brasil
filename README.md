@@ -3,7 +3,7 @@
 **Link da aplicação:** [Desenrola_brasil](https://public.tableau.com/views/Dashboard_desenrola_brasil/Dashboard_desenrola_brasil?:language=pt-BR&:sid=&:display_count=n&:origin=viz_share_link)
 
 ### Tecnologias utilizadas: 
-| [<img align="center" alt="Power bi" height="60" width="60" src="https://github.com/AlbertoFAraujo/PBI_DashboardSAC/assets/105552990/d239f769-5b2a-4cf0-8198-441a8adcbda0">](https://powerbi.microsoft.com/pt-br/desktop/) | [<img align="center" alt="Figma" height="60" width="60" src="https://github.com/AlbertoFAraujo/PBI_DashboardSAC/assets/105552990/41c4197b-df11-4c43-8b84-6af9f1edbddb">](https://www.streamlit.io/) |
+| [<img align="center" alt="tableau" height="60" width="60" src="https://github.com/AlbertoFAraujo/Tableau_Vendas/assets/105552990/6eb598df-9600-4295-a378-e23dd97b6c3c">](https://powerbi.microsoft.com/pt-br/desktop/) | [<img align="center" alt="Figma" height="60" width="60" src="https://github.com/AlbertoFAraujo/PBI_DashboardSAC/assets/105552990/41c4197b-df11-4c43-8b84-6af9f1edbddb">](https://www.streamlit.io/) |
 |:---:|:---:|
 | Tableau | Figma |
 <hr>
